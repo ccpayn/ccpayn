@@ -1,16 +1,25 @@
-### Hi there 👋
+![](https://31.media.tumblr.com/tumblr_mc4bln7UOm1r84emlo1_500.gif)
 
-<!--
-**ccpayn/ccpayn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```diff
+Information:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⌚ 15 years old
+🎈 From France
+📋 Can Speak French, Turkish, German (learning), Spanish (learning)
+🦾 Discord Bot Developer
+```
+```
+Contact: 
+
+🤝 Mail : PaynContactt@gmail.com
+📌 Discord : discord.gg/JgfEgrQhKu
+```
+```diff
+Language:
+
+🐍 Python                 - Dev level => 9/10
+🌌 Csharp                 - Dev level => 4/10
+🌟 JavaScript             - Dev level => 2/10
+```
+

@@ -12,7 +12,7 @@ Information:
 ```
 Contact: 
 
-🤝 Mail : PaynContactt@gmail.com
+🤝 Mail : payncontactt@gmail.com
 📌 Discord : discord.gg/JgfEgrQhKu
 ```
 ```diff

@@ -38,5 +38,3 @@ Language:
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=ccpayn&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Peter's Statistics." />
     </a>
   </p>
-</details>
-<details>

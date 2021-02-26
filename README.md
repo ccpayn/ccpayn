@@ -19,7 +19,7 @@ Contact:
 Language:
 
 🐍 Python                 - Dev level => 9/10
+🌟 JavaScript             - Dev level => 7/10
 🌌 Csharp                 - Dev level => 4/10
-🌟 JavaScript             - Dev level => 2/10
 ```
 

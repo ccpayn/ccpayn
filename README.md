@@ -30,3 +30,13 @@ Language:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+
+<details>
+      <summary>Stats</summary>
+  <p align=center>
+    <a href="https://github.com/ccpayn">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ccpayn&show_icons=true&include_all_commits=true&show_icons=true&title_color=303030&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Peter's Statistics." />
+    </a>
+  </p>
+</details>
+<details>

@@ -23,13 +23,13 @@ Language:
 🌌・Csharp                 - Dev level => 4/10
 ```
 ![GitHub](http://gg.gg/payn01)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Linux](http://gg.gg/payn02)
+![C](http://gg.gg/payn03)
+![C++](http://gg.gg/payn04)
+![JavaScript](http://gg.gg/payn05)
+![Python](http://gg.gg/payn06)
+![SQL](http://gg.gg/payn07)
+![Node.js](http://gg.gg/payn08)
 
 <details>
       <summary>Stats</summary>

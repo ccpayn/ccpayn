@@ -22,7 +22,7 @@ Language:
 🌟・JavaScript             - Dev level => 7/10
 🌌・Csharp                 - Dev level => 4/10
 ```
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![GitHub](http://gg.gg/payn01)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
